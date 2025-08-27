@@ -1,0 +1,23 @@
+{
+  "disableHeadlines": true,
+  "graphOverwrite": false,
+  "rootIndexFile": "README",
+  "autoCreateIndexFile": true,
+  "autoRenameIndexFile": true,
+  "includeFileContent": false,
+  "hideIndexFiles": false,
+  "indexFileInitText": "# Contenidos de la carpeta\n```folder-index-content\n```",
+  "autoPreviewMode": false,
+  "sortIndexFiles": "Alphabetically",
+  "sortHeaders": "Disabled",
+  "recursiveIndexFiles": true,
+  "renderFolderBold": false,
+  "renderFolderItalic": true,
+  "useBulletPoints": true,
+  "excludeFolders": [],
+  "excludePatterns": [],
+  "recursionLimit": 1,
+  "headlineLimit": 2,
+  "indexFileUserSpecified": true,
+  "indexFilename": "README"
+}

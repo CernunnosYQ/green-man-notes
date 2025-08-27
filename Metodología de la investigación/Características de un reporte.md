@@ -7,10 +7,8 @@ Un reporte es un documento escrito en el que se expone de manera ordenada y obje
 
 ### 1. Claridad
 El reporte debe de estar redactado de forma *simple y comprensible*, evitando palabras rebuscadas o expresiones que generen confusión. La claridad ayuda a que cualquier persona pueda entender la información sin necesidad de explicaciones adicionales.
-
 ### 2. Objetividad
 La información debe basarse en *hechos comprobables y verificables*, sin incluir opiniones personales o juicios de valor, salvo en apartados específicos como conclusiones.
-
 ### 3. Estructura definida
 Un buen reporte sigue un orden lógico que facilita su lectura. La estructura más común es:
 1. *Portada*: Contiene título, nombre del autor, institución/empresa, fecha y otros datos de identificación.
