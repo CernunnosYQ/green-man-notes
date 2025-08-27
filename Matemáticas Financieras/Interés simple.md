@@ -1,4 +1,4 @@
-#MatemáticasFinancieras
+#MatemáticasFinancieras #Matemáticas 
 # Interés simple
 
 El interés simple es aquel en el que los intereses se calculan siempre sobre el capital inicial (C), sin acumularse el capital final de cada periodo. Es decir, el dinero que genera una inversión o préstamo no se reinvierte, solo se cobra sobre el mismo monto inicial.

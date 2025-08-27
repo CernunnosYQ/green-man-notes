@@ -1,4 +1,4 @@
-#MatemáticasFinancieras 
+#MatemáticasFinancieras
 # Conceptos básicos
 
 ## Capital ($C$)
