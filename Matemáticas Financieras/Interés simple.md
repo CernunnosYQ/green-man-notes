@@ -5,11 +5,11 @@ El interés simple es aquel en el que los intereses se calculan siempre sobre el
 
 ## Características principales
 
-1. Base fija: Los intereses se calculan siempre sobre el capital inicial.
-2. Linealidad: El interés crece de manera lineal con el tiempo.
-3. No hay reinversión: Los intereses generados en un periodo no producen más intereses en los siguientes
+1. *Base fija*: Los intereses se calculan siempre sobre el capital inicial.
+2. *Linealidad*: El interés crece de manera lineal con el tiempo.
+3. *No hay reinversión*: Los intereses generados en un periodo no producen más intereses en los siguientes
 
-## Formula del interés simple
+## Fórmula del interés simple
 
 La formula es:
 $$
