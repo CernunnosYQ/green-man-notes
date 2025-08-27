@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"000 Personal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5407200
+      }
+    },
+    {
+      "query": "path:\"002 ESCA Tepepan\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10956633
+      }
+    },
+    {
+      "query": "path:\"004 Matemáticas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14718802
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.11084214449770848,
   "close": true
 }

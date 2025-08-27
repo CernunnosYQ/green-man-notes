@@ -1,1 +1,20 @@
-{}
+{
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrainsMono Nerd Font Propo",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "notion-cards",
+    "minimal-cards",
+    "its-frontmatter",
+    "floating-search-bar",
+    "extended-colorschemes",
+    "custom-rainbow-colors",
+    "custom-background",
+    "floating-status-bar"
+  ]
+}

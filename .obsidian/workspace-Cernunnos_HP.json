@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "62cba97853c4d425",
+    "type": "split",
+    "children": [
+      {
+        "id": "153d9fb33662886b",
+        "type": "split",
+        "children": [
+          {
+            "id": "1c429299940d3eaa",
+            "type": "tabs",
+            "dimension": 57.70423991726991,
+            "children": [
+              {
+                "id": "3e9a3e96346301b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 ESCA Tepepan/Fundamentos de contabilidad/1.1 Historia de la contabilidad.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1.1 Historia de la contabilidad"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ae07ff66a34b9676",
+            "type": "split",
+            "dimension": 42.29576008273009,
+            "children": [
+              {
+                "id": "c2e5812517138c5c",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "4a3a6b9f00202cc6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Vista gráfica"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7cf412aaace2e4e9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1798396520cedc03",
+                    "type": "leaf",
+                    "state": {
+                      "type": "calendar",
+                      "state": {},
+                      "icon": "calendar-with-checkmark",
+                      "title": "Calendar"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80137266c08d3a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "60f54deb96a3e9b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fba186792526b29f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d60e467def3254c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9e7916c2eaa3aed5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347
+  },
+  "right": {
+    "id": "9b288f1a03fd921c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8389ff79cebfb24a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2db81c62c5acbae9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Contabilidad/Principios de contabilidad/2.5 Reconocimiento contable.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 2.5 Reconocimiento contable"
+            }
+          },
+          {
+            "id": "690c4a33afe8993f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Contabilidad/Principios de contabilidad/2.5 Reconocimiento contable.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 2.5 Reconocimiento contable"
+            }
+          },
+          {
+            "id": "18b7fb57b33b64d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8eb626d2fd10f3b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contabilidad/Principios de contabilidad/2.5 Reconocimiento contable.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 2.5 Reconocimiento contable"
+            }
+          },
+          {
+            "id": "f8394d2f7204f19f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3e9a3e96346301b2",
+  "lastOpenFiles": [
+    "000 Personal/Metas 2025/Mejorar mi físico y mi salud.md",
+    "000 Personal/Metas 2025/Metas reales.md",
+    "000 Personal/Metas 2025/Pasar todas mis materias con 8 o más.md",
+    "000 Personal/Metas 2025/Tier List.md",
+    "04 Matemáticas/Regla de la cadena.md",
+    "999 Meta/Plantillas/Diario {{title}}.md",
+    "999 Meta/Plantillas",
+    "999 Meta",
+    "001 Productividad",
+    "000 Personal/Metas 2025/Brainstorming.md",
+    "000 Personal/Metas 2025",
+    "000 Personal/Diario",
+    "000 Personal",
+    "002 ESCA Tepepan/Fundamentos de Derecho/4.5 Extinción de las obligaciones.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/4.3 Fuentes y tipos de obligaciones.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/2.4 Organización de la Administración Pública Federal centralizada y descentralizada.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/4.2 Elementos de las obligaciones.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/4.4 Sanciones como otras consecuencias de derecho.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/4.1 Principios de las Obligaciones.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/3.3 Parte dogmática de la Constitución.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/2.3 Aspectos generales de la división de poderes y de las instancias de gobierno.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/3.2 Derecho subjetivo.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/2.2 Estado y sus elementos.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/3.1 Las personas.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/2.5 Acto y recursos administrativos.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/1.4 Clasificación del Derecho objetivo.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/2.1 La Constitución Política de los Estados Unidos Mexicanos.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/1.3 Las fuentes del Derecho.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/1.1 Principios de Derecho.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/1.2 Principales corrientes jurídicas.md",
+    "002 ESCA Tepepan/Fundamentos de contabilidad/4.4 Información en el estado de resultado integral.md",
+    "002 ESCA Tepepan/Fundamentos de contabilidad/4.2 Información en el estado de situación financiera o en las notas.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho",
+    "002 ESCA Tepepan/Fundamentos de contabilidad",
+    "002 ESCA Tepepan",
+    "003 Desarrollo de software",
+    "Sin título.canvas"
+  ]
+}

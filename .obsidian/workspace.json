@@ -1,57 +1,89 @@
 {
   "main": {
-    "id": "87f73f35915214f1",
+    "id": "62cba97853c4d425",
     "type": "split",
     "children": [
       {
-        "id": "8940912b07fdc9c5",
-        "type": "tabs",
+        "id": "75324709d6c7a44c",
+        "type": "split",
         "children": [
           {
-            "id": "19c55fb126ee88e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
+            "id": "a5385db7ef7a1031",
+            "type": "tabs",
+            "dimension": 68.6189889025894,
+            "children": [
+              {
+                "id": "c2e337d451d5309f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Matemáticas Financieras/Interés simple.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Interés simple"
+                }
+              }
+            ]
+          },
+          {
+            "id": "934f620a7640e628",
+            "type": "split",
+            "dimension": 31.381011097410607,
+            "children": [
+              {
+                "id": "20399e0156cfb194",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3e9a3e96346301b2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Vista gráfica"
+                    }
+                  }
+                ]
               },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
+              {
+                "id": "dc61e3028b9b6cfc",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1798396520cedc03",
+                    "type": "leaf",
+                    "state": {
+                      "type": "calendar",
+                      "state": {},
+                      "icon": "calendar-with-checkmark",
+                      "title": "Calendar"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
           }
-        ]
-      },
-      {
-        "id": "497f85964f8eefa0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "95febee59250e4c5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6b5ae7c959c91dba",
+    "id": "80137266c08d3a77",
     "type": "split",
     "children": [
       {
-        "id": "3dceb308459bba14",
+        "id": "60f54deb96a3e9b8",
         "type": "tabs",
         "children": [
           {
-            "id": "2168c609ecc8c69a",
+            "id": "fba186792526b29f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +96,7 @@
             }
           },
           {
-            "id": "27a2fdee33ba1371",
+            "id": "d60e467def3254c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,11 +109,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "45f95e4a08967309",
+            "id": "9e7916c2eaa3aed5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,84 +126,89 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "right": {
-    "id": "984f2bdfb0191d16",
+    "id": "9b288f1a03fd921c",
     "type": "split",
     "children": [
       {
-        "id": "a9eb282dec47ad3d",
+        "id": "8389ff79cebfb24a",
         "type": "tabs",
         "children": [
           {
-            "id": "db86f36045d5fe35",
+            "id": "2db81c62c5acbae9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
-                "collapseAll": false,
+                "file": "Contabilidad/Principios de contabilidad/2.5 Reconocimiento contable.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienvenido"
+              "title": "Enlaces entrantes de 2.5 Reconocimiento contable"
             }
           },
           {
-            "id": "1c35b6b1de9e042c",
+            "id": "690c4a33afe8993f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Contabilidad/Principios de contabilidad/2.5 Reconocimiento contable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes de 2.5 Reconocimiento contable"
             }
           },
           {
-            "id": "1c0aaa0fc540a480",
+            "id": "18b7fb57b33b64d2",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
             }
           },
           {
-            "id": "87f6b5aa5aeb5f6b",
+            "id": "8eb626d2fd10f3b4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Contabilidad/Principios de contabilidad/2.5 Reconocimiento contable.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienvenido"
+              "title": "Esquema de 2.5 Reconocimiento contable"
+            }
+          },
+          {
+            "id": "f8394d2f7204f19f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 349,
     "collapsed": true
   },
   "left-ribbon": {
@@ -181,11 +218,50 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "19c55fb126ee88e6",
+  "active": "fba186792526b29f",
   "lastOpenFiles": [
-    "Bienvenido.md"
+    "Bienvenido.md",
+    "Matemáticas Financieras/Interés simple.md",
+    "Matemáticas Financieras",
+    "Índice General.md",
+    "999 Meta/Plantillas/Diario.md",
+    "004 Matemáticas/Matemáticas Financieras/Interés simple.md",
+    "004 Matemáticas/Antiderivadas.md",
+    "004 Matemáticas/Regla de la cadena (Derivadas).md",
+    "004 Matemáticas/Matemáticas Financieras",
+    "004 Matemáticas/Método de sustitución (Integrales).md",
+    "004 Matemáticas/Método de cambio de variable (Integrales).md",
+    "004 Matemáticas/Límites.md",
+    "004 Matemáticas/LaTeX CheatSheet.md",
+    "004 Matemáticas/Integrales.md",
+    "004 Matemáticas/Integral indefinida.md",
+    "004 Matemáticas/Integral definida.md",
+    "004 Matemáticas/Derivadas.md",
+    "Pendientes.md",
+    "003 Desarrollo de software/FastAPI/Cómo crear una API desde cero paso a paso.md",
+    "003 Desarrollo de software/FastAPI/Configuración básica.md",
+    "Documents/asun_4063778_20200901_1599068466.pdf",
+    "Documents%2FTALLER BASICA BALANCE 2.pdf.md",
+    "Documents/Una_historia_de_FUCVAM_GG.pdf",
+    "Documents/TEORIA INV. CONST(11).pdf",
+    "Documents/Derecho a examen (1).pdf",
+    "Documents/TALLER BASICA BALANCE 2.pdf",
+    "Documents/Derecho a 2DO examen (1).pdf",
+    "Documents",
+    "Hola.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho.md",
+    "002 ESCA Tepepan/Fundamentos de Derecho/1.1 Principios de Derecho.md",
+    "005 Psicología/El efecto Lucifer (Pendiente).md",
+    "003 Desarrollo de software/FastAPI",
+    "005 Psicología/John Stuart Mill.md",
+    "006 Contabilidad/Qué es la contabilidad.md",
+    "006 Contabilidad/Definición de empresa.md",
+    "Sin título.canvas"
   ]
 }

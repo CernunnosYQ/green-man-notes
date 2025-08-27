@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"002 ESCA Tepepan\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11493446
+      }
+    },
+    {
+      "query": "path:\"004 Matemáticas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    },
+    {
+      "query": "path:\"000 Personal/Metas 2025\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 0.993229166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 7.91666666666667,
+  "linkStrength": 0.65625,
+  "linkDistance": 351,
+  "scale": 0.20226576634419408,
+  "close": true
+}
