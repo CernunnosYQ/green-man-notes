@@ -1,5 +1,5 @@
 #MatemáticasFinancieras
-# Conceptos básicos
+# Conceptos clave intereses
 
 ## Capital ($C$)
 
@@ -19,13 +19,18 @@ Es el valor que se paga o se recibe por el uso del capital durante un tiempo det
 - [[Interés simple]]: Se calcula siempre sobre el capital inicial $\large I = C \cdot i \cdot t$
 - [[Interés compuesto]]: Se calcula sobre el capital acumulado (capital + intereses previos): $\large I = M - C = C \cdot ((1+i)^t - 1)$
 
-## Tiempo ($n$ o $t$)
+## Tiempo ($t$ o $n$)
 
 Es el periodo durante el cual el capital genera intereses.
 Puede medirse en años, meses, días, según la unidad de la tasa de interés.
 - En [[Interés simple]], los intereses crecen *linealmente* con el tiempo
 - En [[Interés compuesto]], los intereses crecen de *exponencialmente* con el tiempo, porque cada periodo genera interés sobre el interés
+### Medidas de tiempo
 
+- **Año comercial:** Se considera que un año tiene 360 días. Se usa mucho en bancos y préstamos cortos.
+  Fracción de año: $$\large t = \frac{\text{días transcurridos}}{360}$$
+- **Año real:** Se considera que un año tiene 365 días. Es más preciso y se usa en inversiones o cálculos exactos.
+  Fracción de año: $$\large t = \frac{\text{días transcurridos}}{365}$$
 ## Tasa de interés ($i$)
 
 > [!TIP] Debe estar expresada en la misma unidad de tiempo que el periodo de cálculo

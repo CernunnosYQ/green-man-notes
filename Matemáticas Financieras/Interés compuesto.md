@@ -15,7 +15,7 @@ El interés compuesto es aquel en el que los intereses generados se reinvierten 
 La fórmula es:
 $$\huge M = C \cdot (1 + i)^t $$
 Donde:
-- $M$ = [[Conceptos básicos#Monto ($M$)|Monto final]]
-- $C$ = [[Conceptos básicos#Capital ($C$)|Capital inicial]]
-- $i$ = [[Conceptos básicos#Tasa de interés ($i$)|Tasa de interés por periodo]]
-- $t$ = [[Conceptos básicos#Tiempo ($n$ o $t$)|Tiempo]]
+- $M$ = [[Conceptos clave intereses#Monto ($M$)|Monto final]]
+- $C$ = [[Conceptos clave intereses#Capital ($C$)|Capital inicial]]
+- $i$ = [[Conceptos clave intereses#Tasa de interés ($i$)|Tasa de interés por periodo]]
+- $t$ = [[Conceptos clave intereses#Tiempo ($n$ o $t$)|Tiempo]]
