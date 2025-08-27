@@ -16,10 +16,10 @@ $$
 \huge{ I = C \cdot i \cdot t }
 $$
 Donde:
-- $I$ = Interés generado
-- $C$ = Capital inicial
-- $i$ = Tasa de interés
-- $t$ = Tiempo
+- $I$ = [[Conceptos básicos#Interés ($I$)|Interés generado]]
+- $C$ = [[Conceptos básicos#Capital ($C$)|Capital inicial]]
+- $i$ = [[Conceptos básicos#Tasa de interés ($i$)|Tasa de interés]]
+- $t$ = [[Conceptos básicos#Tiempo ($n$ o $t$)|Tiempo]]
 
 El monto total ($M$) al final del plazo será:
 $$ \huge {M = C + I = C(1 + i \cdot t )} $$
