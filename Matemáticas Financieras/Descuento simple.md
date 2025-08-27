@@ -8,7 +8,9 @@ Se usa mucho en pagarés y facturas por cobrar.
 ## Características principales
 
 - *Linealidad*: El descuento crece de manera proporcional al tiempo y a la tasa, sin capitalización de intereses.
-- Se calcula sobre el *valor nominal o presente*: En el descuento comercial 
+- *Valor presente menor al valor nominal*: El monto pagado hoy siempre es menor que el valor futuro a vencer.
+- *Tasa constante*: La tasa de descuento se mantiene fija durante todo el periodo
+- *Dependencia del tiempo*: El descuento es proporcional al tiempo que falta para el vencimiento; mientras más tiempo falte, mayor es el descuento
 
 ## Fórmula del descuento simple
 
