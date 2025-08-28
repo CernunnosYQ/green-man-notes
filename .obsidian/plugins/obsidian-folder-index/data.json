@@ -15,7 +15,9 @@
   "renderFolderItalic": true,
   "useBulletPoints": true,
   "excludeFolders": [],
-  "excludePatterns": [],
+  "excludePatterns": [
+    "*.env"
+  ],
   "recursionLimit": 1,
   "headlineLimit": 2,
   "indexFileUserSpecified": true,
