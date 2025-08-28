@@ -1,5 +1,13 @@
 # Contenido de la carpeta
 
+> [!NOTE]- Contenido
+> Hola
+> Esta
+> Es
+> Una
+> Prueba
+
+
 - _Desarrollo de software_
     - [FastAPI 101. Qué es FastAPI](app://obsidian.md/Desarrollo%20de%20software/FastAPI%20101.%20Qu%C3%A9%20es%20FastAPI.md)
 - _Matemáticas Financieras_
