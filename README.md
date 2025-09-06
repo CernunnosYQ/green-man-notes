@@ -1,8 +1,7 @@
 # Green Man Notes
 
 **Green Man Notes** es mi colección pública de notas y reflexiones.
-El "Green man" es un simbolo pagano de renovación, naturaleza y ciclos eternos. Con este repositorio quiero reflejar lo mismo: un espacio vivo dónde las ideas crecen, se transforman y se entrelazan 
-
+El "Green man" es un simbolo pagano de renovación, naturaleza y ciclos eternos. Con este repositorio quiero reflejar lo mismo: un espacio vivo dónde las ideas crecen, se transforman y se entrelazan.
 Este repositorio es un jardín de ideas: abierto, en constante cambio y profundamente conectado.
 ## Sobre este repositorio
 - Notas en formato Markdown de Obsidian
