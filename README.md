@@ -14,9 +14,9 @@ Este repositorio es un jardín de ideas: abierto, en constante cambio y profunda
 - Paganismo, naturaleza y espiritualidad
 ## 📖 Cómo leer
 Si tienes la aplicación de **Obsidian** instalada, simplemente:
-	1.Clona este repositorio en tu computadora:
-	```bash
-	git clone https://github.com/CernunnosYQ/green-man-notes
-	```
-	2. Abre la carpeta clonada en **Obsidian** como si fuera un *vault*.
+1. Clona este repositorio en tu computadora:
+```bash
+git clone https://github.com/CernunnosYQ/green-man-notes
+```
+2. Abre la carpeta clonada en **Obsidian** como si fuera un *vault*.
 ¡Y listo! Podrás explorar todas las notas de una mejor manera.
