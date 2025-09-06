@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Metodología de la investigación/Formato base de reporte.md",
+                    "file": "README.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Formato base de reporte"
+                  "title": "README"
                 }
               }
             ]
@@ -228,8 +228,8 @@
   },
   "active": "0aca0e489d0e67f5",
   "lastOpenFiles": [
-    "Metodología de la investigación/Características de un reporte.md",
     "Metodología de la investigación/Formato base de reporte.md",
+    "Metodología de la investigación/Características de un reporte.md",
     "README.md",
     "Matemáticas Financieras/Regla de la cadena (Derivadas).md",
     "Matemáticas Financieras/Derivadas.md",
