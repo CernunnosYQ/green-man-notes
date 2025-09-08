@@ -25,8 +25,23 @@
                   "icon": "lucide-file",
                   "title": "README"
                 }
+              },
+              {
+                "id": "b29ea386ce41884e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Contabilidad/Qué es el EMA y el EBA.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Qué es el EMA y el EBA"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "88910046c36c0fef",
@@ -126,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 297
   },
   "right": {
     "id": "9b288f1a03fd921c",
@@ -226,11 +241,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0aca0e489d0e67f5",
+  "active": "b29ea386ce41884e",
   "lastOpenFiles": [
-    "Metodología de la investigación/Formato base de reporte.md",
+    "Contabilidad/IDSE (IMSS desde su empresa).md",
+    "Contabilidad/Qué es el EMA y el EBA.md",
+    "Contabilidad/SUA (Sistema Único de Autodeterminación).md",
+    "Metodología de la investigación/El lala.md",
     "Metodología de la investigación/Características de un reporte.md",
+    "Meta/Plantillas/Templater/Nueva Nota Pendiente.md",
+    "Meta/Plantillas/Templater",
+    "Meta/Plantillas",
+    "Metodología de la investigación/Formato base de reporte.md",
+    "Documentos/2025 Sep - LFT.pdf",
+    "Documentos/2025 Sep - LIFNVT.pdf",
+    "Documentos/2025 Sep - LSS.pdf",
+    "Documentos/2025 Sep - CCom.pdf",
     "README.md",
+    "Documentos",
+    "Matemáticas Financieras/Límites.md",
+    "Contabilidad",
+    "Meta/Digital Garden.md",
+    "Meta",
     "Matemáticas Financieras/Regla de la cadena (Derivadas).md",
     "Matemáticas Financieras/Derivadas.md",
     "Matemáticas Financieras/Conceptos clave intereses.md",
@@ -240,29 +271,14 @@
     "Lala",
     "Desarrollo de software/FastAPI 101. Qué es FastAPI.md",
     "Matemáticas Financieras/Interés compuesto.md",
-    "Desarrollo de software",
     "Matemáticas Financieras/Sin título.md",
-    "Metodología de la investigación",
     "Matemáticas Financieras/Descuento simple.md",
     "Matemáticas Financieras/Interés simple.md",
-    "Matemáticas Financieras/Límites.md",
     "Bienvenido.md",
-    "Matemáticas Financieras",
     "Índice General.md",
     "999 Meta/Plantillas/Diario.md",
     "004 Matemáticas/Matemáticas Financieras/Interés simple.md",
     "004 Matemáticas/Antiderivadas.md",
-    "004 Matemáticas/Regla de la cadena (Derivadas).md",
-    "004 Matemáticas/Matemáticas Financieras",
-    "004 Matemáticas/Método de sustitución (Integrales).md",
-    "004 Matemáticas/Método de cambio de variable (Integrales).md",
-    "004 Matemáticas/Límites.md",
-    "004 Matemáticas/LaTeX CheatSheet.md",
-    "Documents/asun_4063778_20200901_1599068466.pdf",
-    "Documents/Una_historia_de_FUCVAM_GG.pdf",
-    "Documents/TEORIA INV. CONST(11).pdf",
-    "Documents/Derecho a examen (1).pdf",
-    "Documents/TALLER BASICA BALANCE 2.pdf",
     "Sin título.canvas"
   ]
 }
