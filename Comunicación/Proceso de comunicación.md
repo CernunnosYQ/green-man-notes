@@ -1,5 +1,8 @@
 #Comunicación
-# Evolución del proceso de comunicación
+# Proceso de comunicación
+
+## Modelo del proceso de comunicación
+
 
 ## Modelo de aguja hipodérmica
 
@@ -16,5 +19,3 @@ Los elementos presentes en este modelo son los siguientes:
 - **A quién**: Quienes reciben el mensaje, cuántas son y qué características tienen.
 - **Con qué efecto**: El impacto que tiene el mensaje en los receptores.
 
-
-## Modelo actual
