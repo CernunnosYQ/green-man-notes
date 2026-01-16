@@ -32,12 +32,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Contabilidad/Organismos que rigen la Contabilidad Pública.md",
+                    "file": "Administración/Definición de Administración.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Organismos que rigen la Contabilidad Pública"
+                  "title": "Definición de Administración"
                 }
               }
             ],
@@ -245,16 +245,18 @@
   },
   "active": "6f5bfb1738149ff5",
   "lastOpenFiles": [
+    "Administración/Henry Fayol.md",
+    "Administración/Definición de Administración.md",
+    "Administración/Brook Adams.md",
+    "Administración/Antecedentes históricos de la Administración.md",
+    "Comunicación/Principios de la comunicación.md",
+    "Contabilidad/Organismos que rigen la Contabilidad Pública.md",
     "Contabilidad/Luca Pacioli.md",
     "Contabilidad/Historia de la contabilidad.md",
-    "Administración/Antecedentes históricos de la Administración.md",
-    "Administración/Fundamentos de Administración.md",
-    "Comunicación/Principios de la comunicación.md",
     "Metodología de la investigación/Características de un reporte.md",
     "Contabilidad/Áreas del conocimiento en apoyo a la Contabilidad.md",
     "Contabilidad/Áreas del conocimiento de la contabilidad.md",
     "Comunicación/Proceso de comunicación.md",
-    "Contabilidad/Organismos que rigen la Contabilidad Pública.md",
     "Contabilidad/Contabilidad de Costos.md",
     "Meta/Plantillas/Templater/Nueva Nota Pendiente.md",
     "Desarrollo de software/FastAPI 101. Qué es FastAPI.md",
@@ -271,9 +273,7 @@
     "Matemáticas Financieras/Conceptos clave descuentos.md",
     "Matemáticas Financieras/Conceptos clave intereses.md",
     "Filosofía/Dogmatismo.md",
-    "Matemáticas Financieras/Antiderivadas.md",
     "Filosofía",
-    "README.md",
     "Meta/Plantillas/Templater",
     "Meta/Plantillas",
     "Documentos/2025 Sep - LFT.pdf",
