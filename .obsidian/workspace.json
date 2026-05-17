@@ -32,12 +32,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Administración/Definición de Administración.md",
+                    "file": "Desarrollo Sustentable/Ética en los negocios.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Definición de Administración"
+                  "title": "Ética en los negocios"
                 }
               }
             ],
@@ -245,8 +245,21 @@
   },
   "active": "6f5bfb1738149ff5",
   "lastOpenFiles": [
-    "Administración/Henry Fayol.md",
+    "Desarrollo Sustentable/Índice DJSI.md",
+    "Desarrollo Sustentable/Ética en los negocios.md",
+    "Desarrollo Sustentable/Responsabilidad Social.md",
+    "Desarrollo Sustentable/ISO 26000.md",
+    "Desarrollo Sustentable/CEMEFI.md",
+    "Desarrollo Sustentable/OCDE.md",
+    "Desarrollo Sustentable/Empresa Socialmente Responsable (ESR).md",
+    "Matemáticas Financieras/Integrales.md",
+    "Desarrollo Sustentable",
+    "Matemáticas Financieras/Derivadas.md",
+    "La economía en la empresa/U1. Economía. Un enfoque empresarial.md",
     "Administración/Definición de Administración.md",
+    "Administración/Sin título.md",
+    "La economía en la empresa",
+    "Administración/Henry Fayol.md",
     "Administración/Brook Adams.md",
     "Administración/Antecedentes históricos de la Administración.md",
     "Comunicación/Principios de la comunicación.md",
@@ -260,27 +273,14 @@
     "Contabilidad/Contabilidad de Costos.md",
     "Meta/Plantillas/Templater/Nueva Nota Pendiente.md",
     "Desarrollo de software/FastAPI 101. Qué es FastAPI.md",
-    "Contabilidad/Qué es el EMA y el EBA.md",
-    "Administración/Sin título 1.md",
     "Administración",
-    "Metodología de la investigación/Formato base de reporte.md",
-    "Comunicación/Modelo de aguja hipodérmica.md",
     "Comunicación",
-    "Meta/Digital Garden.md",
-    "Matemáticas Financieras/Interés simple.md",
-    "Matemáticas Financieras/Descuento simple.md",
-    "Matemáticas Financieras/Derivadas.md",
-    "Matemáticas Financieras/Conceptos clave descuentos.md",
-    "Matemáticas Financieras/Conceptos clave intereses.md",
-    "Filosofía/Dogmatismo.md",
     "Filosofía",
     "Meta/Plantillas/Templater",
     "Meta/Plantillas",
     "Documentos/2025 Sep - LFT.pdf",
     "Documentos/2025 Sep - LIFNVT.pdf",
     "Documentos/2025 Sep - LSS.pdf",
-    "Documentos/2025 Sep - CCom.pdf",
-    "Documentos",
     "Sin título.canvas"
   ]
 }
