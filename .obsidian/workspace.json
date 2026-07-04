@@ -4,96 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "5af689ba0666281e",
+        "id": "58a90592d772988c",
         "type": "split",
         "children": [
           {
             "id": "8a4d70abebe66bd4",
             "type": "tabs",
-            "dimension": 68.11460258780036,
+            "dimension": 71.34935304990758,
             "children": [
               {
-                "id": "d54a1b0e7547259a",
+                "id": "0aca0e489d0e67f5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Administración/Fundamentos de Administración.md",
+                    "file": "Metodología de la investigación/Formato base de reporte.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Fundamentos de Administración"
+                  "title": "Formato base de reporte"
                 }
               },
               {
-                "id": "6f5bfb1738149ff5",
+                "id": "9b55caa60b914ce9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Borradores/Idea para curso de finanzas personales.md",
+                    "file": "Comunicación/Principios de la comunicación.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Idea para curso de finanzas personales"
+                  "title": "Principios de la comunicación"
                 }
               },
               {
-                "id": "f68cb33bea0865d6",
+                "id": "9e508ef2b6558581",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Borradores/Idea para curso de finanzas personales.md",
+                    "file": "IA Generated/Libros sobre Jardín Digital.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Idea para curso de finanzas personales"
-                }
-              },
-              {
-                "id": "f727ffed3785b3b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Borradores/Sistema segundo cerebro.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Sistema segundo cerebro"
-                }
-              },
-              {
-                "id": "0c36e9dd0850632c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Borradores/Crea tu segundo cerebro.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Crea tu segundo cerebro"
+                  "title": "Libros sobre Jardín Digital"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
-            "id": "4852003416251448",
+            "id": "202434eb27fd81ad",
             "type": "split",
-            "dimension": 31.88539741219963,
+            "dimension": 28.650646950092423,
             "children": [
               {
-                "id": "37127e36052c3c40",
+                "id": "c03c891617f9d6b2",
                 "type": "tabs",
-                "dimension": 49.30555555555556,
+                "dimension": 53.61111111111111,
                 "children": [
                   {
                     "id": "3e9a3e96346301b2",
@@ -108,9 +80,9 @@
                 ]
               },
               {
-                "id": "5770d263e60dd552",
+                "id": "f91e899cb78f89dd",
                 "type": "tabs",
-                "dimension": 50.69444444444444,
+                "dimension": 46.38888888888889,
                 "children": [
                   {
                     "id": "1798396520cedc03",
@@ -259,70 +231,81 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "2392263a59711701",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 349,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c36e9dd0850632c",
+  "active": "9e508ef2b6558581",
   "lastOpenFiles": [
-    "Borradores/Irving Fischer.md",
-    "Borradores/Crea tu segundo cerebro.md",
-    "Borradores/Sistema segundo cerebro.md",
-    "Borradores/Idea para curso de finanzas personales.md",
-    "Borradores/Bokashi.md",
-    "Borradores/Hot composting.md",
-    "Borradores/Compostaje.md",
-    "Administración/Definición de Administración.md",
-    "Administración/Brook Adams.md",
-    "Administración/Henry Fayol.md",
-    "Borradores/Vermicomposta o lombricomposta.md",
-    "Borradores",
-    "Contabilidad/Cuentas de balance.md",
-    "Contabilidad/Cuentas de resultados.md",
-    "Contabilidad/Monto Original de Inversión (MOI).md",
-    "Contabilidad/Amortización.md",
-    "Contabilidad/Depreciación.md",
-    "Contabilidad/Activo diferido.md",
+    "IA Generated/Libros de teoría comunista.md",
+    "IA Generated/Libros sobre Jardín Digital.md",
+    "IA Generated/Libros de Teoría Monetaria Moderna.md",
+    "La economía en la empresa/U1. Economía. Un enfoque empresarial.md",
+    "IA Generated",
+    "Comunicación/Proceso de comunicación.md",
+    "Meta/Digital Garden.md",
+    "Comunicación/Evolución del proceso de comunicación.md",
+    "Matemáticas Financieras/Suma de Riemann.md",
+    "Matemáticas Financieras/Integrales.md",
+    "Matemáticas Financieras/Integral Definida.md",
+    "Matemáticas Financieras/Cambio de variable.md",
+    "La economía en la empresa",
+    "Desarrollo Sustentable/Índice DJSI.md",
+    "Desarrollo Sustentable/Ética en los negocios.md",
+    "Desarrollo Sustentable/Responsabilidad Social.md",
+    "Desarrollo Sustentable/OCDE.md",
+    "Desarrollo Sustentable/ISO 26000.md",
+    "Desarrollo Sustentable/Empresa Socialmente Responsable (ESR).md",
+    "Desarrollo Sustentable/CEMEFI.md",
+    "Desarrollo Sustentable",
     "Derecho Mercantil/Protección civil.md",
     "Derecho Mercantil/Ley de establecimientos mercantiles.md",
     "Derecho Mercantil/Dar de alta establecimiento mercantil.md",
-    "Matemáticas Financieras/Cambio de variable.md",
     "Derecho Mercantil",
-    "Matemáticas Financieras/Integral Definida.md",
-    "Matemáticas Financieras/Suma de Riemann.md",
-    "Desarrollo Sustentable/Ética en los negocios.md",
-    "Desarrollo Sustentable/Índice DJSI.md",
-    "Desarrollo Sustentable/Responsabilidad Social.md",
-    "Desarrollo Sustentable",
-    "La economía en la empresa",
-    "Administración",
-    "Comunicación",
-    "Filosofía",
-    "Meta/Plantillas/Templater",
-    "Meta/Plantillas",
+    "Contabilidad/Áreas del conocimiento en apoyo a la Contabilidad.md",
+    "Contabilidad/Áreas del conocimiento de la contabilidad.md",
+    "Contabilidad/Organismos que rigen la Contabilidad Pública.md",
+    "Contabilidad/Monto Original de Inversión (MOI).md",
+    "Contabilidad/Luca Pacioli.md",
+    "Borradores",
+    "Documentos/2025 Sep - LSS.pdf",
+    "Documentos/2025 Sep - LIFNVT.pdf",
     "Documentos/2025 Sep - LFT.pdf",
+    "Documentos/2025 Sep - CCom.pdf",
+    "Administración",
     "Sin título.canvas"
   ]
 }
