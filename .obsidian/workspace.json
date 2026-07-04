@@ -32,16 +32,58 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Desarrollo Sustentable/Ética en los negocios.md",
+                    "file": "Borradores/Idea para curso de finanzas personales.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ética en los negocios"
+                  "title": "Idea para curso de finanzas personales"
+                }
+              },
+              {
+                "id": "f68cb33bea0865d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Borradores/Idea para curso de finanzas personales.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Idea para curso de finanzas personales"
+                }
+              },
+              {
+                "id": "f727ffed3785b3b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Borradores/Sistema segundo cerebro.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sistema segundo cerebro"
+                }
+              },
+              {
+                "id": "0c36e9dd0850632c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Borradores/Crea tu segundo cerebro.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Crea tu segundo cerebro"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "4852003416251448",
@@ -243,44 +285,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f5bfb1738149ff5",
+  "active": "0c36e9dd0850632c",
   "lastOpenFiles": [
-    "Desarrollo Sustentable/Índice DJSI.md",
-    "Desarrollo Sustentable/Ética en los negocios.md",
-    "Desarrollo Sustentable/Responsabilidad Social.md",
-    "Desarrollo Sustentable/ISO 26000.md",
-    "Desarrollo Sustentable/CEMEFI.md",
-    "Desarrollo Sustentable/OCDE.md",
-    "Desarrollo Sustentable/Empresa Socialmente Responsable (ESR).md",
-    "Matemáticas Financieras/Integrales.md",
-    "Desarrollo Sustentable",
-    "Matemáticas Financieras/Derivadas.md",
-    "La economía en la empresa/U1. Economía. Un enfoque empresarial.md",
+    "Borradores/Irving Fischer.md",
+    "Borradores/Crea tu segundo cerebro.md",
+    "Borradores/Sistema segundo cerebro.md",
+    "Borradores/Idea para curso de finanzas personales.md",
+    "Borradores/Bokashi.md",
+    "Borradores/Hot composting.md",
+    "Borradores/Compostaje.md",
     "Administración/Definición de Administración.md",
-    "Administración/Sin título.md",
-    "La economía en la empresa",
-    "Administración/Henry Fayol.md",
     "Administración/Brook Adams.md",
-    "Administración/Antecedentes históricos de la Administración.md",
-    "Comunicación/Principios de la comunicación.md",
-    "Contabilidad/Organismos que rigen la Contabilidad Pública.md",
-    "Contabilidad/Luca Pacioli.md",
-    "Contabilidad/Historia de la contabilidad.md",
-    "Metodología de la investigación/Características de un reporte.md",
-    "Contabilidad/Áreas del conocimiento en apoyo a la Contabilidad.md",
-    "Contabilidad/Áreas del conocimiento de la contabilidad.md",
-    "Comunicación/Proceso de comunicación.md",
-    "Contabilidad/Contabilidad de Costos.md",
-    "Meta/Plantillas/Templater/Nueva Nota Pendiente.md",
-    "Desarrollo de software/FastAPI 101. Qué es FastAPI.md",
+    "Administración/Henry Fayol.md",
+    "Borradores/Vermicomposta o lombricomposta.md",
+    "Borradores",
+    "Contabilidad/Cuentas de balance.md",
+    "Contabilidad/Cuentas de resultados.md",
+    "Contabilidad/Monto Original de Inversión (MOI).md",
+    "Contabilidad/Amortización.md",
+    "Contabilidad/Depreciación.md",
+    "Contabilidad/Activo diferido.md",
+    "Derecho Mercantil/Protección civil.md",
+    "Derecho Mercantil/Ley de establecimientos mercantiles.md",
+    "Derecho Mercantil/Dar de alta establecimiento mercantil.md",
+    "Matemáticas Financieras/Cambio de variable.md",
+    "Derecho Mercantil",
+    "Matemáticas Financieras/Integral Definida.md",
+    "Matemáticas Financieras/Suma de Riemann.md",
+    "Desarrollo Sustentable/Ética en los negocios.md",
+    "Desarrollo Sustentable/Índice DJSI.md",
+    "Desarrollo Sustentable/Responsabilidad Social.md",
+    "Desarrollo Sustentable",
+    "La economía en la empresa",
     "Administración",
     "Comunicación",
     "Filosofía",
     "Meta/Plantillas/Templater",
     "Meta/Plantillas",
     "Documentos/2025 Sep - LFT.pdf",
-    "Documentos/2025 Sep - LIFNVT.pdf",
-    "Documentos/2025 Sep - LSS.pdf",
     "Sin título.canvas"
   ]
 }

@@ -1,0 +1,2 @@
+#Contabilidad  #Pendiente
+# Activo diferido
