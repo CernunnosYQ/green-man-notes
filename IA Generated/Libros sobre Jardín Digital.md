@@ -1,4 +1,4 @@
-#IA_Generated  #ChatGPT 
+#IA_Generated #ChatGPT 
 # Libros sobre Jardín Digital
 
 Si por "jardín digital" te refieres al concepto de tomar notas, conectar ideas y construir una base de conocimiento personal en constante crecimiento (como popularizaron herramientas tipo Zettelkasten, Obsidian y los digital gardens), te recomendaría este orden:

@@ -1,4 +1,4 @@
-#IA_Generated #ChatGPT
+#IA_Generated #ChatGPT #Economía
 # Libros de Teoría Monetaria Moderna
 
 Si quieres estudiar la **Teoría Monetaria Moderna (MMT, Modern Monetary Theory)**, también conviene seguir un orden progresivo. La MMT utiliza conceptos de macroeconomía, banca y finanzas públicas que pueden resultar confusos si se entra directamente a los textos más técnicos.

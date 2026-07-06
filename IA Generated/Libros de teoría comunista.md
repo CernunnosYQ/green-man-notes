@@ -1,4 +1,4 @@
-#IA_Generated  #ChatGPT 
+#IA_Generated #ChatGPT #Comunismo #Marxismo #Economía 
 # Libros de teoría comunista
 
 Si quieres empezar a entender el pensamiento comunista, suele ser mejor hacerlo de forma gradual. Muchas personas comienzan directamente con Marx y se encuentran con textos difíciles porque Marx escribía para debatir con filósofos, economistas y políticos de su época.
