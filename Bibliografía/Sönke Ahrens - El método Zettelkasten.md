@@ -16,4 +16,6 @@ Se basa en notas individuales que se vinculan entre ellas mediante enlaces, sin 
 
 ## Notas generadas
 
-- 
+- [[202607060530 - La importancia de la micro escritura]]
+- [[202607060545 - Miedo a la hoja en blanco]]
+- [[202607060630 - Características de una buena estructura de trabajo]]
