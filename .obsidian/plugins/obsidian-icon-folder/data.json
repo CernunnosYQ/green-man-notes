@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPencilRuler",
-      "LiBookMarked",
-      "LiSprout",
-      "LiMapPinned",
-      "LiAtom"
+      "LiBotMessageSquare",
+      "LiTrash",
+      "LiFilePlus",
+      "LiArchive",
+      "LiFileSpreadsheet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,10 @@
   "Mapas": "LiMapPinned",
   "Garden": "LiSprout",
   "Bibliografía": "LiBookMarked",
-  "Meta": "LiPencilRuler"
+  "Meta": "LiPencilRuler",
+  "Referencia": "LiFileSpreadsheet",
+  "Archivo": "LiArchive",
+  "Referencia/Archivos": "LiFilePlus",
+  "IA Generated": "LiBotMessageSquare",
+  "zzz Old": "LiTrash"
 }

@@ -15,8 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "/",
-      "template": "Meta/Plantillas/Templater/Nueva Nota Pendiente.md"
+      "folder": "Bibliografía",
+      "template": "Meta/Plantillas/Nueva fuente.md"
+    },
+    {
+      "folder": "Mapas",
+      "template": "Meta/Plantillas/Nuevo mapa.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,

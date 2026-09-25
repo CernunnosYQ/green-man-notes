@@ -4,76 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c3fea26e91a9a4",
+        "id": "b876b878871e57a8",
         "type": "split",
         "children": [
           {
-            "id": "601a951452e82e29",
+            "id": "a1fb94a984678399",
             "type": "tabs",
-            "dimension": 68.02218114602587,
+            "dimension": 67.46765249537893,
             "children": [
               {
-                "id": "e30985b657f211a8",
+                "id": "e8ef36d2d208b76e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Bibliografía/Sönke Ahrens - El método Zettelkasten.md",
+                    "file": "Mapas/Mapa - Economía de la empresa.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Sönke Ahrens - El método Zettelkasten"
-                }
-              },
-              {
-                "id": "23111cd32a77bc87",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Zettelkasten/202607060545 - Miedo a la hoja en blanco.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "202607060545 - Miedo a la hoja en blanco"
-                }
-              },
-              {
-                "id": "e90149ea8c8cae9d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bibliografía/Sönke Ahrens - El método Zettelkasten.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Sönke Ahrens - El método Zettelkasten"
-                }
-              },
-              {
-                "id": "132e3f4943b238cd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mapas/Mapa - El método Zettelkasten.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mapa - El método Zettelkasten"
+                  "title": "Mapa - Economía de la empresa"
                 }
               }
             ]
           },
           {
-            "id": "6f7e0e685ebf5b14",
+            "id": "0af3669e08d1cfd1",
             "type": "split",
-            "dimension": 31.97781885397412,
+            "dimension": 32.53234750462107,
             "children": [
               {
                 "id": "37127e36052c3c40",
@@ -92,7 +50,7 @@
                 ]
               },
               {
-                "id": "ab83ad232f0ac567",
+                "id": "53bd186acdb53a98",
                 "type": "tabs",
                 "children": [
                   {
@@ -131,7 +89,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -279,44 +239,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e30985b657f211a8",
+  "active": "e8ef36d2d208b76e",
   "lastOpenFiles": [
-    "Zettelkasten/202607060630 - Características de una buena estructura de trabajo.md",
-    "Zettelkasten/202607060545 - Miedo a la hoja en blanco.md",
-    "Zettelkasten/202607060530 - La importancia de la micro escritura.md",
-    "Bibliografía/Sönke Ahrens - El método Zettelkasten.md",
-    "Matemáticas Financieras/Derivadas.md",
-    "Garden/El método Zettelkasten - Sönke Ahrens.md",
     "Mapas/Mapa - El método Zettelkasten.md",
-    "Administración/Definición de Administración.md",
-    "Administración/Henry Fayol.md",
-    "Administración/Brook Adams.md",
-    "Administración/Antecedentes históricos de la Administración.md",
-    "Desarrollo de software/FastAPI 101. Qué es FastAPI.md",
-    "Contabilidad/Qué es el EMA y el EBA.md",
-    "Contabilidad/Cuentas de resultados.md",
-    "Contabilidad/Áreas del conocimiento de la contabilidad.md",
-    "Contabilidad/Amortización.md",
-    "Contabilidad/Activo diferido.md",
-    "Derecho Mercantil/Protección civil.md",
-    "Derecho Mercantil/Ley de establecimientos mercantiles.md",
-    "Derecho Mercantil/Dar de alta establecimiento mercantil.md",
-    "Desarrollo Sustentable/Responsabilidad Social.md",
-    "Desarrollo Sustentable/OCDE.md",
-    "Desarrollo Sustentable/ISO 26000.md",
-    "Desarrollo Sustentable/Índice DJSI.md",
-    "Desarrollo Sustentable/CEMEFI.md",
-    "Desarrollo Sustentable/Empresa Socialmente Responsable (ESR).md",
-    "Sin nombre",
+    "Mapas/Mapa - Economía de la empresa.md",
+    "Bibliografía/J. Silvestre Méndez - Microeconomía. La Economía en la empresa.md",
+    "Garden/El método Zettelkasten - Sönke Ahrens.md",
+    "Bibliografía/Greg Mankiw - Microeconomía. Versión para América latina.md",
+    "Bibliografía/Paul Samuelson y William Nordhaus - Microeconomía con aplicaciones.md",
+    "Bibliografía/Fernando Rodríguez - Formulación y evaluación de proyectos de inversión.md",
+    "Bibliografía/Sönke Ahrens - El método Zettelkasten.md",
+    "Meta/Digital Garden.md",
+    "Bibliografía/Vargas Gustavo - Introducción a la teoría económica. Aplicaciones a la economía mexicana.md",
+    "Meta/Plantillas/Nueva fuente.md",
+    "Mapas/Sin título.md",
+    "Meta/Plantillas/Templater/Nueva Nota Pendiente.md",
+    "Meta/Plantillas/Nuevo mapa.md",
+    "IA Generated/Libros de Teoría Monetaria Moderna.md",
+    "IA Generated/Libros de teoría comunista.md",
+    "Zettelkasten/202607060530 - La importancia de la micro escritura.md",
+    "README.md",
+    "Referencia/Sin título.md",
+    "Referencia/Archivos/2025 Sep - LSS.pdf",
+    "zzz Old/Borradores/Vermicomposta o lombricomposta.md",
+    "zzz Old",
+    "Referencia/Archivos",
+    "Archivo",
+    "zzz Old/Borradores/Sistema segundo cerebro.md",
+    "zzz Old/Borradores/Sin título.md",
+    "zzz Old/Borradores/Irving Fischer.md",
+    "zzz Old/Borradores/Crea tu segundo cerebro.md",
+    "zzz Old/Borradores/Idea para curso de finanzas personales.md",
+    "zzz Old/Borradores/Hot composting.md",
+    "Sin nombre/Sin nombre",
+    "Referencia",
     "Bibliografía",
     "Garden",
     "Mapas",
     "Zettelkasten",
-    "IA Generated",
-    "Borradores",
-    "Derecho Mercantil",
-    "Desarrollo Sustentable",
-    "La economía en la empresa",
     "Sin título.canvas"
   ]
 }
