@@ -13,7 +13,6 @@
 
 La economía como ciencia social
 - Problema económico
-- Prueba
 
 Microeconomía y Macroeconomía
 
