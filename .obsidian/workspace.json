@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,8 +240,8 @@
   },
   "active": "e8ef36d2d208b76e",
   "lastOpenFiles": [
-    "Mapas/Mapa - El método Zettelkasten.md",
     "Mapas/Mapa - Economía de la empresa.md",
+    "Mapas/Mapa - El método Zettelkasten.md",
     "Bibliografía/J. Silvestre Méndez - Microeconomía. La Economía en la empresa.md",
     "Garden/El método Zettelkasten - Sönke Ahrens.md",
     "Bibliografía/Greg Mankiw - Microeconomía. Versión para América latina.md",
