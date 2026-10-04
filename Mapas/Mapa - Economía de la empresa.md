@@ -1,4 +1,4 @@
-#Mapas  #Contabilidad #Escuela
+#tipo/Mapa #tema/Contabilidad #escuela/IPN
 
 > [!Info]
 > tipo: Programa de estudios
